@@ -33,4 +33,4 @@ This project consists of predicting the churn rate of a fictitious music streami
 
 # Results
 
-This analysis shows the importance of the entire process and the CRISP-DP methodology, it also denotes the relevant factors when it comes to creating a business case. Additionally, it allows determining the relevant factors that determine the price of the accommodations posted on Airbnb, drawing up a preventive model on this.
+After procces de initial log dataset we obtain 11 processed features and visual intial analysis, test two diferren calsiification machine larning algoritms Random Fores and Logistic regresion algo perfomr a grid search to evaluate if we can optimize our result the final model achive a 8/% of acurrincy with a defualt Random Forest model.
