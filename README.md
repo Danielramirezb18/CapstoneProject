@@ -33,4 +33,4 @@ This project consists of predicting the churn rate of a fictitious music streami
 
 # Results
 
-After procces de initial log dataset we obtain 11 processed features and visual intial analysis, test two diferren calsiification machine larning algoritms Random Fores and Logistic regresion algo perfomr a grid search to evaluate if we can optimize our result the final model achive a 8/% of acurrincy with a defualt Random Forest model.
+After processing the initial log data set, we got 11 features processed and an initial visual analysis, we tested two different calssification machine learning algorithms, a logistic regression algorithm and a random forest, a grid search was also performed to optimize the results of the model. As a result, the final model reaches 87% accuracy with a default random forest model.
